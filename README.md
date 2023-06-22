@@ -1,5 +1,3 @@
-![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=mei-suzuki)
-
 ## Github Stats  
 <a href="#">
   <img src="https://github-readme-stats.vercel.app/api?username=mei-suzuki&show_icons=true&theme=dracula" width="50%" align="left" />
