@@ -15,6 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+- 🌱 I’m currently learning machine learning.
+- 👯 I’m looking to collaborate on ...
+
 ## Github Stats  
 <a href="#">
   <img src="https://github-readme-stats.vercel.app/api?username=mei-suzuki&show_icons=true&theme=dracula" width="50%" align="left" />
